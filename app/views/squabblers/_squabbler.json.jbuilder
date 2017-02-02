@@ -1,0 +1,2 @@
+json.extract! squabbler, :id, :fname, :lname, :alias, :sole_squabbler, :team_squabbler, :judge, :twitter_handle, :facebook, :age, :country, :gender, :created_at, :updated_at
+json.url squabbler_url(squabbler, format: :json)

@@ -1,0 +1,1 @@
+json.array! @squabblers, partial: 'squabblers/squabbler', as: :squabbler

@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  fname: MyString
+  lname: MyString
+  alias: MyString
+  sole_squabbler: MyString
+  team_squabbler: MyString
+  judge: MyString
+  twitter_handle: MyString
+  facebook: MyString
+  age: 9.99
+  country: MyString
+  gender: MyString
+
+two:
+  fname: MyString
+  lname: MyString
+  alias: MyString
+  sole_squabbler: MyString
+  team_squabbler: MyString
+  judge: MyString
+  twitter_handle: MyString
+  facebook: MyString
+  age: 9.99
+  country: MyString
+  gender: MyString
